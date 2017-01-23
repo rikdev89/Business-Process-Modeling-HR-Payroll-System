@@ -1,0 +1,2 @@
+# Business-Process-Modelling-HR-Payroll-System-
+Remodeled the HR Payroll Process for Micro and Small enterprises. Redesigned the process using database management algorithms. Reduced data redundancy and improved data integrity for better reporting and tracking. Used MS Visio to draw the Entity Relationship diagrams. Deployed the schema using Oracle SQL Developer. Generated reports using Oracle SQL Developer.
